@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap');
 
 :root {
-  --primary-color: #0d5c34;     /* Rich Forest Green */
-  --primary-light: #1b7a4b;     /* Lighter Green */
-  --primary-dark: #073b21;      /* Deep Forest Green */
+  --primary-color: #1a56db;     /* Royal Blue */
+  --primary-light: #3b82f6;     /* Lighter Blue */
+  --primary-dark: #1e3a8a;      /* Deep Blue */
   --secondary-color: #f39c12;   /* Premium Gold/Yellow */
   --secondary-light: #f5b041;   /* Golden yellow highlight */
   --secondary-dark: #d68910;    /* Antique Gold */
