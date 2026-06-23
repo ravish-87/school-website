@@ -79,7 +79,7 @@ export default function Contact() {
               <Phone size={24} className="info-icon" />
               <div>
                 <h4>Admissions Desk Hotline</h4>
-                <p>87095103, +91 99999 77777</p>
+                <p>87095103, 111111222</p>
               </div>
             </li>
             <li className="info-item-card">

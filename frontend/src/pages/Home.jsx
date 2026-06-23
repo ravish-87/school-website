@@ -143,7 +143,7 @@ export default function Home() {
             </p>
             <div className="leadership-signature">
               <div>
-                <h4>Dr. Ram Chandra</h4>
+                <h4>Dr. Ram</h4>
                 <p>Pro-Vice Chairman, ABC Public School</p>
               </div>
               <Link to="/about" className="btn btn-primary">Read Leadership Messages</Link>

@@ -64,7 +64,7 @@ export default function About() {
             <div className="message-card-full">
               <div className="speaker-profile">
                 <div className="avatar-mock">RC</div>
-                <h3>Dr. Ram Chandra</h3>
+                <h3>Dr. Ram</h3>
                 <p className="speaker-designation">Pro-Vice Chairman, ABC Public School</p>
               </div>
               <div className="message-body">
@@ -79,7 +79,7 @@ export default function About() {
             <div className="message-card-full reverse">
               <div className="speaker-profile">
                 <div className="avatar-mock bg-gold">SM</div>
-                <h3>Mrs. Shobha Mrinal</h3>
+                <h3>Mrs. Sobha</h3>
                 <p className="speaker-designation">Principal, ABC Public School</p>
               </div>
               <div className="message-body">
