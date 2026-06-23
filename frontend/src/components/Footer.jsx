@@ -88,9 +88,6 @@ export default function Footer() {
       <div className="footer-bottom">
         <div className="container bottom-content">
           <p>&copy; {currentYear} ABC Public School. All Rights Reserved.</p>
-          <div className="bottom-links">
-            <span>Powered by Antigravity AI</span>
-          </div>
         </div>
       </div>
 
