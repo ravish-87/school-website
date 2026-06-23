@@ -50,7 +50,7 @@ export default function Contact() {
   return (
     <div className="contact-page-container animate-fade-in">
       {/* Banner */}
-      <div className="contact-banner-header" style={{ backgroundImage: `linear-gradient(rgba(13, 92, 52, 0.82), rgba(7, 59, 33, 0.9)), url(/sports.png)` }}>
+      <div className="contact-banner-header" style={{ backgroundImage: `linear-gradient(rgba(26, 86, 219, 0.82), rgba(30, 58, 138, 0.9)), url(/sports.png)` }}>
         <div className="container banner-inner">
           <h1>Contact Us</h1>
           <p>Get in touch with our helpdesk, admissions team, or leadership office.</p>

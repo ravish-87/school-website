@@ -164,7 +164,7 @@ export default function Admissions() {
   return (
     <div className="admissions-page-container animate-fade-in">
       {/* Banner */}
-      <div className="admissions-banner-header" style={{ backgroundImage: `linear-gradient(rgba(13, 92, 52, 0.82), rgba(7, 59, 33, 0.9)), url(/sports.png)` }}>
+      <div className="admissions-banner-header" style={{ backgroundImage: `linear-gradient(rgba(26, 86, 219, 0.82), rgba(30, 58, 138, 0.9)), url(/sports.png)` }}>
         <div className="container banner-inner">
           <h1>Admission Portal</h1>
           <p>Online registration, guidelines, fee structures, and application tracking.</p>
@@ -599,7 +599,7 @@ export default function Admissions() {
         .step-num {
           font-size: 2.5rem;
           font-weight: 800;
-          color: rgba(13, 92, 52, 0.1);
+          color: rgba(26, 86, 219, 0.1);
           position: absolute;
           top: 15px;
           right: 20px;
@@ -719,7 +719,7 @@ export default function Admissions() {
         }
 
         .upload-icon-container {
-          background-color: rgba(13, 92, 52, 0.08);
+          background-color: rgba(26, 86, 219, 0.08);
           color: var(--primary-color);
           width: 70px;
           height: 70px;

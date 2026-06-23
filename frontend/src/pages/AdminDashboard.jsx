@@ -988,7 +988,7 @@ export default function AdminDashboard() {
         }
 
         .sidebar-btn.active {
-          background-color: rgba(13, 92, 52, 0.05);
+          background-color: rgba(26, 86, 219, 0.05);
           color: var(--primary-color);
           border-left-color: var(--primary-color);
         }

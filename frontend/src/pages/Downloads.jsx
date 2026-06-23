@@ -41,7 +41,7 @@ export default function Downloads() {
   return (
     <div className="downloads-page-container animate-fade-in">
       {/* Banner */}
-      <div className="downloads-banner-header" style={{ backgroundImage: `linear-gradient(rgba(13, 92, 52, 0.82), rgba(7, 59, 33, 0.9)), url(/robotics.png)` }}>
+      <div className="downloads-banner-header" style={{ backgroundImage: `linear-gradient(rgba(26, 86, 219, 0.82), rgba(30, 58, 138, 0.9)), url(/robotics.png)` }}>
         <div className="container banner-inner">
           <h1>Downloads & Forms Center</h1>
           <p>Find important school documents, syllabus files, and application forms.</p>

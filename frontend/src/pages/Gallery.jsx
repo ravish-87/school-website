@@ -36,7 +36,7 @@ export default function Gallery() {
   return (
     <div className="gallery-page-container animate-fade-in">
       {/* Banner */}
-      <div className="gallery-banner-header" style={{ backgroundImage: `linear-gradient(rgba(13, 92, 52, 0.82), rgba(7, 59, 33, 0.9)), url(/campus.png)` }}>
+      <div className="gallery-banner-header" style={{ backgroundImage: `linear-gradient(rgba(26, 86, 219, 0.82), rgba(30, 58, 138, 0.9)), url(/campus.png)` }}>
         <div className="container banner-inner">
           <h1>Campus Media Gallery</h1>
           <p>Peek into the everyday life, infrastructure, and events at ABC Public School.</p>

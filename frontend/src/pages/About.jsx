@@ -5,7 +5,7 @@ export default function About() {
   return (
     <div className="about-page-container animate-fade-in">
       {/* Banner */}
-      <div className="about-banner-header" style={{ backgroundImage: `linear-gradient(rgba(13, 92, 52, 0.8), rgba(7, 59, 33, 0.9)), url(/campus.png)` }}>
+      <div className="about-banner-header" style={{ backgroundImage: `linear-gradient(rgba(26, 86, 219, 0.8), rgba(30, 58, 138, 0.9)), url(/campus.png)` }}>
         <div className="container banner-inner">
           <h1>About Our Institution</h1>
           <p>Excellence in education since inception. Serving Deoghar and the nation with pride.</p>
@@ -272,7 +272,7 @@ export default function About() {
           top: -25px;
           left: -15px;
           font-size: 5rem;
-          color: rgba(13, 92, 52, 0.1);
+          color: rgba(26, 86, 219, 0.1);
           line-height: 1;
           font-family: serif;
         }

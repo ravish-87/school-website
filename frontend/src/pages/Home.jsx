@@ -539,7 +539,7 @@ export default function Home() {
 
         .filter-tab-btn:hover {
           color: var(--primary-color);
-          background-color: rgba(13, 92, 52, 0.02);
+          background-color: rgba(26, 86, 219, 0.02);
         }
 
         .filter-tab-btn.active {
@@ -565,7 +565,7 @@ export default function Home() {
         }
 
         .notice-item-card:hover {
-          background-color: rgba(13, 92, 52, 0.01);
+          background-color: rgba(26, 86, 219, 0.01);
         }
 
         .notice-meta {
