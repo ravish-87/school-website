@@ -200,7 +200,7 @@ export default function Navbar() {
         }
 
         .navbar-scrolled .main-navbar-container {
-          background-color: rgba(13, 92, 52, 0.98);
+          background-color: rgba(26, 86, 219, 0.98);
           box-shadow: var(--shadow-md);
         }
 
@@ -292,7 +292,7 @@ export default function Navbar() {
 
         .nav-link:hover, .nav-link.active {
           color: var(--primary-color);
-          background-color: rgba(13, 92, 52, 0.05);
+          background-color: rgba(26, 86, 219, 0.05);
         }
 
         .navbar-scrolled .nav-link:hover, .navbar-scrolled .nav-link.active {
